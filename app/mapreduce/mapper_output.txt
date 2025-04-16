@@ -1,0 +1,15 @@
+!doc!doc1	5
+this	doc1:1
+is	doc1:1
+an	doc1:1
+example	doc1:1
+document	doc1:1
+!doc!doc2	8
+this	doc2:1
+is	doc2:1
+another	doc2:1
+example	doc2:1
+document	doc2:1
+with	doc2:1
+extra	doc2:1
+words	doc2:1

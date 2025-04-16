@@ -17,7 +17,8 @@ from cassandra.cluster import Cluster
 
 
 
-cluster = Cluster(['cassandra'])
+cluster = Cluster(['cassandra-server'])
+
 session = cluster.connect()
 session.execute("""
     CREATE KEYSPACE IF NOT EXISTS search_engine 

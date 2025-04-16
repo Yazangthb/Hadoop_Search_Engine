@@ -1,0 +1,2 @@
+doc1	Example Title	This is an example document.
+doc2	Another Title	This is another example document with extra words.

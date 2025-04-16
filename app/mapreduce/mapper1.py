@@ -5,6 +5,7 @@ import re
 def tokenize(text):
     return re.findall(r'\w+', text.lower())
 
+
 for line in sys.stdin:
     line = line.strip()
     if not line:
